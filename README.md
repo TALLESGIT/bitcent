@@ -1,40 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🚀 BitCENt - Plataforma Financeira 💸
 
-## Getting Started
+![Screenshot](../bitcent/public/Captura%20de%20tela.png) 
 
-First, run the development server:
+🌟 Descrição
+BitCENt é uma plataforma inovadora que ajuda você a organizar suas finanças de maneira simples e eficiente. 💼💰 Com uma interface moderna, o BitCENt oferece uma solução completa para o gerenciamento financeiro, tornando o processo de controle do seu dinheiro mais acessível e intuitivo.
 
-```bash
+🛠️ Tecnologias Utilizadas
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+React ⚛️: Biblioteca JavaScript para criação de interfaces de usuário.
+Next.js 🚀: Framework React para otimização de performance e SEO.
+Tailwind CSS 🎨: Framework de CSS utilitário para estilização rápida e responsiva.
+Mantine 🛠️: Biblioteca de componentes React para interfaces poderosas e fáceis de usar.
+Firebase 🔥: Plataforma de desenvolvimento de aplicativos para autenticação e banco de dados.
+UUID 🔑: Para a geração de identificadores únicos universais.
+TypeScript 🧑‍💻: Superset do JavaScript que adiciona tipos estáticos ao código.
+📦 Funcionalidades
+💰 Gerenciamento Financeiro Simples: Organize e controle suas finanças pessoais de forma eficaz.
+💬 Interface Intuitiva: Design moderno e fácil de navegar.
+🔒 Autenticação Segura: Login e autenticação utilizando Firebase.
+📊 Gráficos Dinâmicos: Acompanhe o desempenho financeiro com gráficos claros e interativos.
+💼 Responsividade: Totalmente responsivo, acessível em qualquer dispositivo.
+🚀 Como Executar o Projeto
+Clone o repositório:
+
+bash
+Copiar código
+git clone https://github.com/seu-usuario/bitcent.git
+Navegue até o diretório do projeto:
+
+bash
+Copiar código
+cd bitcent
+Instale as dependências:
+
+bash
+Copiar código
+npm install
+Inicie o projeto:
+
+bash
+Copiar código
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Acesse a aplicação em http://localhost:3000.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+📚 Documentação
+Next.js
+Tailwind CSS
+Mantine
+Firebase
+TypeScript
+🖼️ Capturas de Tela
+Adicione aqui algumas imagens da aplicação em funcionamento para destacar as funcionalidades.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+🤝 Contribuições
+Contribuições são sempre bem-vindas! Para contribuir, siga os passos abaixo:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Faça um fork do projeto.
+Crie uma nova branch para suas alterações: git checkout -b minha-nova-feature.
+Faça as alterações e faça o commit: git commit -m 'Adicionando nova feature'.
+Envie para a branch principal: git push origin minha-nova-feature.
+Abra um Pull Request.
+📝 Licença
+Este projeto está licenciado sob a Licença MIT.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+💻 Desenvolvido com amor por Tales Coelho ✨.
